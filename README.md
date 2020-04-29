@@ -13,17 +13,17 @@ Clone repositories:
 
 On back end: goto server directory, install files and start server
 
-### cd game-of-life-demo/gameoflife-backend
+### cd gameoflife-backend
 ### npm install
 ### node server.js
 
 On front end: goto app directory, install files and start app
 
-### cd game-of-life-demo/frontend
+### cd gameoflife-frontend
 ### yarn install 
 ### yarn start
 
-Back end set to listen on port 3002. Front end defaults to port 3000.​
+Back end set to listen on port 3002. Front end defaults to port 3000.
 
 Enjoy!
 
