@@ -1,3 +1,24 @@
+Game of Life Demo app
+
+This is the front end. To be used in conjunction with Node backend: https://github.com/ChrisMartin-io/gameoflife-backend
+
+Back end set to listen on port 3002. Front end defaults to port 3000. 
+
+On back end: goto server directory and start server
+
+### node server.js
+
+On front end: goto app directory and start app
+
+### yarn start
+
+Enjoy!
+
+
+---
+
+Default Create React App text
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts

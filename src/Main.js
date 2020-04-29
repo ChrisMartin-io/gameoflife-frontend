@@ -174,7 +174,7 @@ function Main() {
       setInterval(() => {
         console.log('table is', currTable);
         axios
-          .post('http://localhost:3000', {
+          .post('http://localhost:3002', {
             data: currTable
           })
           .then(res => {
